@@ -63,6 +63,3 @@ class Square:
         Prints square with #'s
         """
         print("\n".join(["#" * self.__size for rows in range(self.__size)]))
-
-        if self.__size == 0:
-            print("")
