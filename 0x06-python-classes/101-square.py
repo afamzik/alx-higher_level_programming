@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-further tasks 
+further tasks
 Defines class Square with private size & position; and public area & my_print
 Can access and update size and position
 Can print to stdout the square using #'s

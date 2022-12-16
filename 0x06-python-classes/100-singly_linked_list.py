@@ -62,7 +62,7 @@ class Node:
     def next_node(self, value):
         """
         this sets next_node to value
-        
+
         Args:
             value: sets next_node if value is next_node or None
         """
