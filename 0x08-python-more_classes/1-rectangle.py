@@ -4,6 +4,7 @@ Class Rectangle with private
 attribute width and height
 """
 
+
 class Rectangle:
     """
     Args:

@@ -4,6 +4,7 @@ Class Rectangle with private attribute with
 public area and perimeter methods
 """
 
+
 class Rectangle:
     """
     Args:
