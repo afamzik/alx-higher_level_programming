@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-returns true of false depending if it is an instance of 
+returns true of false depending if it is an instance of
 a class inherited directly or indirectly
 """
 
