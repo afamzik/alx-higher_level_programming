@@ -1,13 +1,13 @@
 #!/usr/bin/python3
 """
-Class Rectangle 
+Class Rectangle
 """
 
 
 class Rectangle():
     """
     Args:
-        width 
+        width
         height
 
     Attributes:

@@ -2,8 +2,9 @@
 """
 Class Rectangle
 """
+
 class Rectangle():
-    """
-    An empty class named rectangle
-    """
-    pass
+	"""
+    	An empty class named rectangle
+	"""
+	pass
